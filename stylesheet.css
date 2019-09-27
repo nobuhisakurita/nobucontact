@@ -1,7 +1,6 @@
 
 *{
   font-family:HiraMinProN-W6;
-  background-color:black;
 
 }
 
@@ -99,8 +98,8 @@ h3,h4{
 
 .t-1 a{
   position:relative;
-  color:white;
-  margin:50px;
-  padding:50px;
+  color:red;
+  margin:20px;
+  padding:20px;
   font-size:20px;
 }
